@@ -1,2 +1,2 @@
-# DeleteMailsAutomation
- Delete gmail mails using Java
+# Interactive Dictionary
+ Interactive dictionary made using Java from scratch.
